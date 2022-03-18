@@ -1,8 +1,8 @@
-# _{Application Name}_
+# _Branch-Testing-00_
 
 #### By _**{List of contributors}**_
 
-#### _{Brief description of application}_
+#### _This was purely a branch/merging testing project_
 
 ## Technologies Used
 
